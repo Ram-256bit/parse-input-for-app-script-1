@@ -7,7 +7,6 @@ This is a simple python script to parse input for a specific need I faced.
 ```
 git clone https://github.com/Ram-256bit/parse-input-for-app-script-1
 cd parse-input-for-app-script-1
-pip install -r requirements.txt
 python main.py
 ```
 
