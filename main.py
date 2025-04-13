@@ -68,7 +68,7 @@ def clear_input():
 window = tk.Tk()
 window.title("Text Formatter")
 window.geometry("600x450")
-window.resizable(False, False)
+window.resizable(True, True)
 
 # Input Label and Box
 tk.Label(window, text="Enter your text (one per line):").pack(pady=5)
